@@ -1,1 +1,2 @@
-print ("welcome-666666
+print ("welcome-6")
+print ("sucessful-job")
